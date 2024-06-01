@@ -39,6 +39,6 @@
 
  ## Результаты работы модели
  ![result_1](https://github.com/AlexanderNikitin2207/Leaf-disease-segmentation/assets/113451350/a8eb673a-938a-40d0-a789-cb61ecfcd6ac "Результаты работы модели")
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 
  ![result_2](https://github.com/AlexanderNikitin2207/Leaf-disease-segmentation/assets/113451350/0a9da9dd-fbb6-49ed-974c-c7ad01e00c04 "Результаты работы модели")
 
