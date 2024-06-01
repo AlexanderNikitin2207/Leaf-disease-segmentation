@@ -22,5 +22,4 @@
 Для тестирования метода в реальных условиях был предоставлен набор данных, состоящий из 604 снимков кустов картофеля с разрешением 3456 на 5184 пикселей.. Некоторые из участков были подвергнуты заражению фитофторозом. Датасет содержит снимки листьев картофеля через 6 дней после заражения. 
 
 Изображения были нарезаны на более маленькие разрешением 512 на 512 пикселей. Пример полученных снимков представлен ниже.
-![IMG_479](https://github.com/AlexanderNikitin2207/Leaf-disease-segmentation/assets/113451350/4638d717-d2ea-4e8b-8567-552b8f0b5b29)
-![IMG_479](https://github.com/AlexanderNikitin2207/Leaf-disease-segmentation/assets/113451350/ff39f90d-9200-416e-b679-2dbc92952055)
+![IMG_479](https://github.com/AlexanderNikitin2207/Leaf-disease-segmentation/assets/113451350/4638d717-d2ea-4e8b-8567-552b8f0b5b29)![IMG_479](https://github.com/AlexanderNikitin2207/Leaf-disease-segmentation/assets/113451350/ff39f90d-9200-416e-b679-2dbc92952055)
